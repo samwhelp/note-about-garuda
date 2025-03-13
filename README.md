@@ -29,8 +29,16 @@
 | [Garuda Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-garuda-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-garuda-kde-plasma) |
 | [Garuda Kde Plasma Mokka 探索筆記](https://samwhelp.github.io/note-about-garuda-kde-plasma-mokka/) | [GitHub](https://github.com/samwhelp/note-about-garuda-kde-plasma-mokka) |
 | [Garuda Kde Plasma Dr460nized 探索筆記](https://samwhelp.github.io/note-about-garuda-kde-plasma-dr460nized/) | [GitHub](https://github.com/samwhelp/note-about-garuda-kde-plasma-dr460nized) |
+
+
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [Garuda Xfce 探索筆記](https://samwhelp.github.io/note-about-garuda-xfce/) | [GitHub](https://github.com/samwhelp/note-about-garuda-xfce) |
 | [Garuda Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-garuda-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
+| [Garuda Cinnamon 探索筆記](https://samwhelp.github.io/note-about-garuda-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-cinnamon) |
+| [Garuda Cosmic 探索筆記](https://samwhelp.github.io/note-about-garuda-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-cosmic) |
 
 
 
