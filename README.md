@@ -42,6 +42,14 @@
 
 
 
+| Link | GitHub |
+| ---- | ------ |
+| [Garuda Hyprland 探索筆記](https://samwhelp.github.io/note-about-garuda-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-garuda-hyprland) |
+| [Garuda Sway 探索筆記](https://samwhelp.github.io/note-about-garuda-sway/) | [GitHub](https://github.com/samwhelp/note-about-sway) |
+| [Garuda I3wm 探索筆記](https://samwhelp.github.io/note-about-garuda-i3wm/) | [GitHub](https://github.com/samwhelp/note-about-i3wm) |
+
+
+
 
 ## 微調腳本
 
