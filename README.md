@@ -36,17 +36,17 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Garuda Xfce 探索筆記](https://samwhelp.github.io/note-about-garuda-xfce/) | [GitHub](https://github.com/samwhelp/note-about-garuda-xfce) |
-| [Garuda Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-garuda-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
-| [Garuda Cinnamon 探索筆記](https://samwhelp.github.io/note-about-garuda-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-cinnamon) |
-| [Garuda Cosmic 探索筆記](https://samwhelp.github.io/note-about-garuda-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-cosmic) |
+| [Garuda Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-garuda-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-garuda-gnome-shell) |
+| [Garuda Cinnamon 探索筆記](https://samwhelp.github.io/note-about-garuda-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-garuda-cinnamon) |
+| [Garuda Cosmic 探索筆記](https://samwhelp.github.io/note-about-garuda-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-garuda-cosmic) |
 
 
 
 | Link | GitHub |
 | ---- | ------ |
 | [Garuda Hyprland 探索筆記](https://samwhelp.github.io/note-about-garuda-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-garuda-hyprland) |
-| [Garuda Sway 探索筆記](https://samwhelp.github.io/note-about-garuda-sway/) | [GitHub](https://github.com/samwhelp/note-about-sway) |
-| [Garuda I3wm 探索筆記](https://samwhelp.github.io/note-about-garuda-i3wm/) | [GitHub](https://github.com/samwhelp/note-about-i3wm) |
+| [Garuda Sway 探索筆記](https://samwhelp.github.io/note-about-garuda-sway/) | [GitHub](https://github.com/samwhelp/note-about-garuda-sway) |
+| [Garuda I3wm 探索筆記](https://samwhelp.github.io/note-about-garuda-i3wm/) | [GitHub](https://github.com/samwhelp/note-about-garuda-i3wm) |
 
 
 
